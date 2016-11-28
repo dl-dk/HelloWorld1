@@ -240,3 +240,5 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/HelloGit2/Git2.dll
+/HelloGit2/HelloGit2

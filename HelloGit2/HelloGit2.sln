@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGit2", "HelloGit2\HelloGit2.csproj", "{B2DE0D2F-D44F-41E7-B936-1ABEC671AE4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git2.dll", "Git2.dll\Git2.dll.csproj", "{F82E9353-431A-41BD-ACC3-729D0F5E51DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git3.dll", "Git3.dll\Git3.dll.csproj", "{32C345B1-0C50-482A-AFDE-7D37F0FA6EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2DE0D2F-D44F-41E7-B936-1ABEC671AE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DE0D2F-D44F-41E7-B936-1ABEC671AE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DE0D2F-D44F-41E7-B936-1ABEC671AE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DE0D2F-D44F-41E7-B936-1ABEC671AE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82E9353-431A-41BD-ACC3-729D0F5E51DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82E9353-431A-41BD-ACC3-729D0F5E51DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82E9353-431A-41BD-ACC3-729D0F5E51DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82E9353-431A-41BD-ACC3-729D0F5E51DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32C345B1-0C50-482A-AFDE-7D37F0FA6EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C345B1-0C50-482A-AFDE-7D37F0FA6EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C345B1-0C50-482A-AFDE-7D37F0FA6EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C345B1-0C50-482A-AFDE-7D37F0FA6EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
